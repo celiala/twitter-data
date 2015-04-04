@@ -1,0 +1,99 @@
+{
+  "previous_cursor": 0, 
+  "previous_cursor_str": "0", 
+  "next_cursor": 0, 
+  "users": [
+    {
+      "follow_request_sent": false, 
+      "blocked_by": false, 
+      "profile_use_background_image": true, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 15804774, 
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "muting": false, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/424495004/GuidoAvatar_normal.jpg", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/jujQDNMiBP", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://python.org/~guido/", 
+              "display_url": "python.org/~guido/"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 59500, 
+      "profile_sidebar_border_color": "C0DEED", 
+      "id_str": "15804774", 
+      "profile_background_color": "C0DEED", 
+      "listed_count": 2814, 
+      "status": {
+        "lang": "en", 
+        "favorited": false, 
+        "entities": {
+          "symbols": [], 
+          "user_mentions": [], 
+          "hashtags": [], 
+          "urls": []
+        }, 
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Use sys.version_info instead.", 
+        "created_at": "Wed Apr 01 19:16:06 +0000 2015", 
+        "retweeted": false, 
+        "in_reply_to_status_id_str": null, 
+        "coordinates": null, 
+        "in_reply_to_user_id_str": null, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "583347122495344640", 
+        "place": null, 
+        "retweet_count": 42, 
+        "geo": null, 
+        "id": 583347122495344640, 
+        "favorite_count": 31, 
+        "in_reply_to_user_id": null
+      }, 
+      "is_translation_enabled": false, 
+      "utc_offset": -25200, 
+      "statuses_count": 1409, 
+      "description": "Python BDFL. Working at Dropbox. The 'van' has no capital letter!", 
+      "friends_count": 420, 
+      "location": "San Francisco Bay Area", 
+      "profile_link_color": "0084B4", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/424495004/GuidoAvatar_normal.jpg", 
+      "following": true, 
+      "geo_enabled": true, 
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15804774/1400086274", 
+      "blocking": false, 
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+      "name": "Guido van Rossum", 
+      "lang": "en", 
+      "profile_background_tile": false, 
+      "favourites_count": 261, 
+      "screen_name": "gvanrossum", 
+      "notifications": false, 
+      "url": "http://t.co/jujQDNMiBP", 
+      "created_at": "Mon Aug 11 04:02:18 +0000 2008", 
+      "contributors_enabled": false, 
+      "time_zone": "Pacific Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": true, 
+      "is_translator": false
+    }
+  ], 
+  "next_cursor_str": "0"
+}

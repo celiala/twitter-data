@@ -1,0 +1,4802 @@
+[
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Pygame pysight - halloween talk at pycon was fantastic. from @briandorsey", 
+    "in_reply_to_status_id": null, 
+    "id": 772004159, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 1830491, 
+          "indices": [
+            61, 
+            73
+          ], 
+          "id_str": "1830491", 
+          "screen_name": "briandorsey", 
+          "name": "Brian Dorsey"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "772004159", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 16:29:19 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "re. ip keynote: corporations hire lawyers; don't blame the hired help from @barryhawkins", 
+    "in_reply_to_status_id": null, 
+    "id": 771996559, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 8858812, 
+          "indices": [
+            75, 
+            88
+          ], 
+          "id_str": "8858812", 
+          "screen_name": "barryhawkins", 
+          "name": "Barry Hawkins"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771996559", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 16:08:10 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Sun open space today: http://tinyurl.com/34rd4s from @twleung", 
+    "in_reply_to_status_id": null, 
+    "id": 771992258, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 13470, 
+          "indices": [
+            53, 
+            61
+          ], 
+          "id_str": "13470", 
+          "screen_name": "twleung", 
+          "name": "Ted Leung"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771992258", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 15:57:05 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "CherryPy at 12PM in Kennedy from @pmikeyp", 
+    "in_reply_to_status_id": null, 
+    "id": 771990911, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 9941872, 
+          "indices": [
+            33, 
+            41
+          ], 
+          "id_str": "9941872", 
+          "screen_name": "pmikeyp", 
+          "name": "Mike Pittaro"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771990911", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 15:53:01 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "wifi is much improved so far this morning (using pycon_managed_g)... looking for someone to thank! :) from @imjustabrian", 
+    "in_reply_to_status_id": null, 
+    "id": 771988699, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14147918, 
+          "indices": [
+            107, 
+            120
+          ], 
+          "id_str": "14147918", 
+          "screen_name": "imjustabrian", 
+          "name": "imjustabrian"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771988699", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 15:46:58 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Unreal games: discussion about programming language needs for concurrency http://tinyurl.com/28kf2w from @dmarsh", 
+    "in_reply_to_status_id": null, 
+    "id": 771988342, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 7401782, 
+          "indices": [
+            105, 
+            112
+          ], 
+          "id_str": "7401782", 
+          "screen_name": "dmarsh", 
+          "name": "Dianne Marsh"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771988342", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 15:45:57 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Spot Callaway on packaging and distros : &quot;I want an egg that contains the source to make the chicken that lays an egg&quo from @pmikeyp", 
+    "in_reply_to_status_id": null, 
+    "id": 771985988, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 9941872, 
+          "indices": [
+            132, 
+            140
+          ], 
+          "id_str": "9941872", 
+          "screen_name": "pmikeyp", 
+          "name": "Mike Pittaro"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771985988", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 15:39:53 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "looks like they've unified the two networks, bonjour wise. from @Kusmeroglu", 
+    "in_reply_to_status_id": null, 
+    "id": 771981842, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 5692192, 
+          "indices": [
+            64, 
+            75
+          ], 
+          "id_str": "5692192", 
+          "screen_name": "Kusmeroglu", 
+          "name": "Kusmeroglu"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771981842", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 15:28:46 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "talking about PARLEY library in multiprocessor parallelism open spaces http://osl.cs.uiuc.edu/parley/ from @dmarsh", 
+    "in_reply_to_status_id": null, 
+    "id": 771978562, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 7401782, 
+          "indices": [
+            107, 
+            114
+          ], 
+          "id_str": "7401782", 
+          "screen_name": "dmarsh", 
+          "name": "Dianne Marsh"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771978562", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 15:18:39 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Learning about concurrency and Parley in the open space http://osl.cs.uiuc.edu/parley/ from @Kusmeroglu", 
+    "in_reply_to_status_id": null, 
+    "id": 771977830, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 5692192, 
+          "indices": [
+            92, 
+            103
+          ], 
+          "id_str": "5692192", 
+          "screen_name": "Kusmeroglu", 
+          "name": "Kusmeroglu"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771977830", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 15:16:39 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "The board game room last night was a good time. Thanks! from @aezell", 
+    "in_reply_to_status_id": null, 
+    "id": 771973884, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 114937589, 
+          "indices": [
+            61, 
+            68
+          ], 
+          "id_str": "114937589", 
+          "screen_name": "aezell", 
+          "name": "Alex Ezell"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771973884", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 15:06:30 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Not conflicting with the main conference body that it from @jessenoller", 
+    "in_reply_to_status_id": null, 
+    "id": 771971099, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14100497, 
+          "indices": [
+            59, 
+            71
+          ], 
+          "id_str": "14100497", 
+          "screen_name": "jessenoller", 
+          "name": "Jesse Noller"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771971099", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 14:59:24 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "7:30pm open space for discussing Python scripts to customize Counter-Strike: Source, TF2, etc (with EventScripts) from @mattiec", 
+    "in_reply_to_status_id": null, 
+    "id": 771970722, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14152864, 
+          "indices": [
+            119, 
+            127
+          ], 
+          "id_str": "14152864", 
+          "screen_name": "mattiec", 
+          "name": "mattiec"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771970722", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 14:58:25 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "would anyone be interested in having a Multiprocessor parallelism talk in an open space later this evening (not conflictin from @jessenoller", 
+    "in_reply_to_status_id": null, 
+    "id": 771970720, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14100497, 
+          "indices": [
+            128, 
+            140
+          ], 
+          "id_str": "14100497", 
+          "screen_name": "jessenoller", 
+          "name": "Jesse Noller"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771970720", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 14:58:24 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "9:40 AM or PM for the Multiprocessor talk from @jessenoller", 
+    "in_reply_to_status_id": null, 
+    "id": 771957261, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14100497, 
+          "indices": [
+            47, 
+            59
+          ], 
+          "id_str": "14100497", 
+          "screen_name": "jessenoller", 
+          "name": "Jesse Noller"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771957261", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 14:19:03 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Open Spaces at 9:40: Multiprocessor Parallelism (running at same time as &quot;Intellectual Property and Open Source&quot; plen from @dmarsh", 
+    "in_reply_to_status_id": null, 
+    "id": 771946265, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 7401782, 
+          "indices": [
+            133, 
+            140
+          ], 
+          "id_str": "7401782", 
+          "screen_name": "dmarsh", 
+          "name": "Dianne Marsh"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771946265", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 13:44:48 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Full house at the Board Game Social tonight. :D One attendant left a duffel and bag of pieces. They'll be in the L&amp;F in from @ponderings", 
+    "in_reply_to_status_id": null, 
+    "id": 771850512, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 4634041, 
+          "indices": [
+            129, 
+            140
+          ], 
+          "id_str": "4634041", 
+          "screen_name": "ponderings", 
+          "name": "Dean Goodmanson"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771850512", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 06:52:43 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "edu bof in kai tak room at bottom of escalator from @annaraven", 
+    "in_reply_to_status_id": null, 
+    "id": 771748622, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 8799612, 
+          "indices": [
+            52, 
+            62
+          ], 
+          "id_str": "8799612", 
+          "screen_name": "annaraven", 
+          "name": "annaraven"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771748622", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 00:52:34 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "@imjustabrian I didn't bring my Droid, was wondering if anyone else had onw from @pmikeyp", 
+    "in_reply_to_status_id": 771715394, 
+    "id": 771733547, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14147918, 
+          "indices": [
+            0, 
+            13
+          ], 
+          "id_str": "14147918", 
+          "screen_name": "imjustabrian", 
+          "name": "imjustabrian"
+        }, 
+        {
+          "id": 9941872, 
+          "indices": [
+            81, 
+            89
+          ], 
+          "id_str": "9941872", 
+          "screen_name": "pmikeyp", 
+          "name": "Mike Pittaro"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": "imjustabrian", 
+    "id_str": "771733547", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": 14147918, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": "14147918", 
+    "lang": "en", 
+    "created_at": "Sat Mar 15 00:04:36 +0000 2008", 
+    "in_reply_to_status_id_str": "771715394", 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "early call for same thing tomorrow night... from @alecf", 
+    "in_reply_to_status_id": null, 
+    "id": 771720974, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 10309342, 
+          "indices": [
+            49, 
+            55
+          ], 
+          "id_str": "10309342", 
+          "screen_name": "alecf", 
+          "name": "alecf"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771720974", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 23:26:11 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Getting together a group of people to order some food from giordanos - let me know if you want in. http://www.giordanos.co from @jessenoller", 
+    "in_reply_to_status_id": null, 
+    "id": 771719370, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14100497, 
+          "indices": [
+            128, 
+            140
+          ], 
+          "id_str": "14100497", 
+          "screen_name": "jessenoller", 
+          "name": "Jesse Noller"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771719370", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 23:21:09 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "pmikeyp I'd go for a tuxdroid bof but don't have one, would you be demo-ing? from @imjustabrian", 
+    "in_reply_to_status_id": null, 
+    "id": 771719368, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14147918, 
+          "indices": [
+            82, 
+            95
+          ], 
+          "id_str": "14147918", 
+          "screen_name": "imjustabrian", 
+          "name": "imjustabrian"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771719368", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 23:21:08 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "list of lightning talks/talkers available anywhere?  i'd like to get in touch with the political guy from columbus but misse from @jamesturk", 
+    "in_reply_to_status_id": null, 
+    "id": 771705601, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 7276152, 
+          "indices": [
+            130, 
+            140
+          ], 
+          "id_str": "7276152", 
+          "screen_name": "jamesturk", 
+          "name": "James Turk"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771705601", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 22:40:51 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "wifi for 1k geeks must be a challenge. from @annaraven", 
+    "in_reply_to_status_id": null, 
+    "id": 771692215, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 8799612, 
+          "indices": [
+            44, 
+            54
+          ], 
+          "id_str": "8799612", 
+          "screen_name": "annaraven", 
+          "name": "annaraven"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771692215", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 22:03:22 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "unstable wifi make baby pandas cry from @simonfl", 
+    "in_reply_to_status_id": null, 
+    "id": 771691409, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 1282781, 
+          "indices": [
+            40, 
+            48
+          ], 
+          "id_str": "1282781", 
+          "screen_name": "simonfl", 
+          "name": "Simon F-Lessard"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771691409", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 22:01:20 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "any TuxDroid owners interested in a BOF? from @pmikeyp", 
+    "in_reply_to_status_id": null, 
+    "id": 771690144, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 9941872, 
+          "indices": [
+            46, 
+            54
+          ], 
+          "id_str": "9941872", 
+          "screen_name": "pmikeyp", 
+          "name": "Mike Pittaro"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771690144", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 21:58:17 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "once you connect, never let go! :) from @botono9", 
+    "in_reply_to_status_id": null, 
+    "id": 771689049, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 8211252, 
+          "indices": [
+            40, 
+            48
+          ], 
+          "id_str": "8211252", 
+          "screen_name": "botono9", 
+          "name": "Aaron"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771689049", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 21:55:16 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "This WIFI makes me cry from @wsanchez", 
+    "in_reply_to_status_id": null, 
+    "id": 771687932, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 6073782, 
+          "indices": [
+            28, 
+            37
+          ], 
+          "id_str": "6073782", 
+          "screen_name": "wsanchez", 
+          "name": "Wilfredo S\u00e1nchez"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771687932", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 21:52:14 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "apologies for the outtage folks - unhandled exception. I have an excuse - I'm sick as a dog! from @crim", 
+    "in_reply_to_status_id": null, 
+    "id": 771656655, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 7460122, 
+          "indices": [
+            98, 
+            103
+          ], 
+          "id_str": "7460122", 
+          "screen_name": "crim", 
+          "name": "Stephen Crim"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771656655", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 20:32:17 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "I can haz internet?! w00t! from @Kusmeroglu", 
+    "in_reply_to_status_id": null, 
+    "id": 771632829, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 5692192, 
+          "indices": [
+            32, 
+            43
+          ], 
+          "id_str": "5692192", 
+          "screen_name": "Kusmeroglu", 
+          "name": "Kusmeroglu"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771632829", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 19:33:01 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "anyone w/ an interest in mapping (mapnik devs?) want to do an informal chat fri or sat night? from @jamesturk", 
+    "in_reply_to_status_id": null, 
+    "id": 771629571, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 7276152, 
+          "indices": [
+            99, 
+            109
+          ], 
+          "id_str": "7276152", 
+          "screen_name": "jamesturk", 
+          "name": "James Turk"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771629571", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 19:24:54 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "heading downstairs to Open Spaces at 2:10 for Flex with Python from @dmarsh", 
+    "in_reply_to_status_id": null, 
+    "id": 771617357, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 7401782, 
+          "indices": [
+            68, 
+            75
+          ], 
+          "id_str": "7401782", 
+          "screen_name": "dmarsh", 
+          "name": "Dianne Marsh"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771617357", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 18:55:34 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Just learned power cycling the AirPort realyy helps getting the Mac online from @pmikeyp", 
+    "in_reply_to_status_id": null, 
+    "id": 771604851, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 9941872, 
+          "indices": [
+            80, 
+            88
+          ], 
+          "id_str": "9941872", 
+          "screen_name": "pmikeyp", 
+          "name": "Mike Pittaro"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771604851", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 18:26:07 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "I didn't realize lunch was complementary...  must learn to read. from @botono9", 
+    "in_reply_to_status_id": null, 
+    "id": 771598847, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 8211252, 
+          "indices": [
+            70, 
+            78
+          ], 
+          "id_str": "8211252", 
+          "screen_name": "botono9", 
+          "name": "Aaron"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771598847", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 18:12:01 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Ballroom 3 for 2 solid hours this post-noon (for me...) from @AdamKG", 
+    "in_reply_to_status_id": null, 
+    "id": 771598414, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14092482, 
+          "indices": [
+            61, 
+            68
+          ], 
+          "id_str": "14092482", 
+          "screen_name": "AdamKG", 
+          "name": "AdamKG"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771598414", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 18:10:59 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "(not to be all negative tho- the veggie wrap was pretty good :) from @imjustabrian", 
+    "in_reply_to_status_id": null, 
+    "id": 771597967, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14147918, 
+          "indices": [
+            69, 
+            82
+          ], 
+          "id_str": "14147918", 
+          "screen_name": "imjustabrian", 
+          "name": "imjustabrian"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771597967", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 18:10:01 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "that was the nastiest cookie I've ever tasted. Bleah! from @imjustabrian", 
+    "in_reply_to_status_id": null, 
+    "id": 771597527, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14147918, 
+          "indices": [
+            59, 
+            72
+          ], 
+          "id_str": "14147918", 
+          "screen_name": "imjustabrian", 
+          "name": "imjustabrian"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771597527", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 18:08:58 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Bretts talk on import is really good and clear. from @annaraven", 
+    "in_reply_to_status_id": null, 
+    "id": 771561328, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 8799612, 
+          "indices": [
+            53, 
+            63
+          ], 
+          "id_str": "8799612", 
+          "screen_name": "annaraven", 
+          "name": "annaraven"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771561328", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 16:51:21 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "the vendor by registration has great stuph but theyre running out of some. from @annaraven", 
+    "in_reply_to_status_id": null, 
+    "id": 771546688, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 8799612, 
+          "indices": [
+            80, 
+            90
+          ], 
+          "id_str": "8799612", 
+          "screen_name": "annaraven", 
+          "name": "annaraven"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771546688", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 16:21:58 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "the vendor room next to ballroom 4 is really loud - recommend sitting on left side from @jessenoller", 
+    "in_reply_to_status_id": null, 
+    "id": 771545595, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 14100497, 
+          "indices": [
+            88, 
+            100
+          ], 
+          "id_str": "14100497", 
+          "screen_name": "jessenoller", 
+          "name": "Jesse Noller"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771545595", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 16:19:54 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "total fail on the last two formatting changes, third time is the charm from @crim", 
+    "in_reply_to_status_id": null, 
+    "id": 771537644, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 7460122, 
+          "indices": [
+            76, 
+            81
+          ], 
+          "id_str": "7460122", 
+          "screen_name": "crim", 
+          "name": "Stephen Crim"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771537644", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 16:04:47 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": ".@alecf I appreciate the fact that they've relegated us to primary-numbered floors in the hotel", 
+    "in_reply_to_status_id": null, 
+    "id": 771531987, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 10309342, 
+          "indices": [
+            1, 
+            7
+          ], 
+          "id_str": "10309342", 
+          "screen_name": "alecf", 
+          "name": "alecf"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771531987", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 15:53:56 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "In the meantime, tweet @pycon and we'll bounce your tweet back at you so that everyone following pycon sees it. Tell your friends.", 
+    "in_reply_to_status_id": null, 
+    "id": 771515078, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 9475182, 
+          "indices": [
+            23, 
+            29
+          ], 
+          "id_str": "9475182", 
+          "screen_name": "pycon", 
+          "name": "PyCon"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771515078", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 15:22:21 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "If anyone has any improvements, additions, or wants to do something more official with this account, say so and we'll work something out.", 
+    "in_reply_to_status_id": null, 
+    "id": 771514503, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771514503", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 15:21:11 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Fixed a bug that only let people see the reflected status if they were following both pycon and the  person who sent the @pycon message.", 
+    "in_reply_to_status_id": null, 
+    "id": 771513385, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 9475182, 
+          "indices": [
+            121, 
+            127
+          ], 
+          "id_str": "9475182", 
+          "screen_name": "pycon", 
+          "name": "PyCon"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771513385", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 15:19:08 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "@mysticbob keynote. py3k insights up next.", 
+    "in_reply_to_status_id": 771477691, 
+    "id": 771478163, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 5485922, 
+          "indices": [
+            0, 
+            10
+          ], 
+          "id_str": "5485922", 
+          "screen_name": "mysticbob", 
+          "name": "bob kuehne"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": "mysticbob", 
+    "id_str": "771478163", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": 5485922, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": "5485922", 
+    "lang": "en", 
+    "created_at": "Fri Mar 14 14:10:13 +0000 2008", 
+    "in_reply_to_status_id_str": "771477691", 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "@crim reply to @pycon, it reflects your status as a reply to you. tell your friends!", 
+    "in_reply_to_status_id": 771180684, 
+    "id": 771180697, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 7460122, 
+          "indices": [
+            0, 
+            5
+          ], 
+          "id_str": "7460122", 
+          "screen_name": "crim", 
+          "name": "Stephen Crim"
+        }, 
+        {
+          "id": 9475182, 
+          "indices": [
+            15, 
+            21
+          ], 
+          "id_str": "9475182", 
+          "screen_name": "pycon", 
+          "name": "PyCon"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": "crim", 
+    "id_str": "771180697", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": 7460122, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": "7460122", 
+    "lang": "en", 
+    "created_at": "Thu Mar 13 23:51:30 +0000 2008", 
+    "in_reply_to_status_id_str": "771180684", 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "@crim think I got this working this time", 
+    "in_reply_to_status_id": 771179437, 
+    "id": 771179590, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [
+        {
+          "id": 7460122, 
+          "indices": [
+            0, 
+            5
+          ], 
+          "id_str": "7460122", 
+          "screen_name": "crim", 
+          "name": "Stephen Crim"
+        }
+      ], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": "crim", 
+    "id_str": "771179590", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": 7460122, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": "7460122", 
+    "lang": "en", 
+    "created_at": "Thu Mar 13 23:48:27 +0000 2008", 
+    "in_reply_to_status_id_str": "771179437", 
+    "place": null
+  }, 
+  {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "I'm embarrassed to admit I grabbed this user name intending to do something with it, but then utterly forgot that I had. Anybody have ideas?", 
+    "in_reply_to_status_id": null, 
+    "id": 771069198, 
+    "favorite_count": 0, 
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [], 
+      "hashtags": [], 
+      "urls": []
+    }, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "771069198", 
+    "retweet_count": 0, 
+    "in_reply_to_user_id": null, 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "profile_use_background_image": false, 
+      "profile_text_color": "333333", 
+      "default_profile_image": false, 
+      "id": 9475182, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "verified": false, 
+      "profile_location": null, 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "profile_sidebar_fill_color": "DDEEF6", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UOQY2np5mr", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://us.pycon.org", 
+              "display_url": "us.pycon.org"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 11217, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "9475182", 
+      "profile_background_color": "131516", 
+      "listed_count": 504, 
+      "is_translation_enabled": false, 
+      "utc_offset": -14400, 
+      "statuses_count": 2636, 
+      "description": "PyCon 2015 will be in Montr\u00e9al from from April 8th \u2013 16th, 2015.", 
+      "friends_count": 1, 
+      "location": "Montr\u00e9al Canada", 
+      "profile_link_color": "55B6D9", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912726389374978/A_C3q8vJ_normal.png", 
+      "following": true, 
+      "geo_enabled": false, 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494908004676816897/nYkva8u_.png", 
+      "name": "PyCon", 
+      "lang": "en", 
+      "profile_background_tile": true, 
+      "favourites_count": 281, 
+      "screen_name": "pycon", 
+      "notifications": false, 
+      "url": "http://t.co/UOQY2np5mr", 
+      "created_at": "Tue Oct 16 11:17:41 +0000 2007", 
+      "contributors_enabled": false, 
+      "time_zone": "Eastern Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "lang": "en", 
+    "created_at": "Thu Mar 13 19:14:20 +0000 2008", 
+    "in_reply_to_status_id_str": null, 
+    "place": null
+  }
+]
